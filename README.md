@@ -53,7 +53,7 @@ iamovi@ovismint:~/Desktop/yourcli$ ./index
 ```
 - then everything is working buttery clean.
 
-### Alright, let's move to next step - we will make the cli our own =>
+### Alright, let's move to next step - we will make the cli completely yours =>
 
 > Note - please follow comments inside code files, you can see what you have to do.
 
