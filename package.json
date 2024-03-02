@@ -1,0 +1,26 @@
+{
+  "_comments": {
+    "README": "change 'marufovi' to your desired name or maybe to your name, that name will be used to run your cli in terminal! also change 'marufovi-cli' name! "
+  },
+  "name": "marufovi-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to intact with Maruf OVi's gh repos.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "marufovi": "./index"
+  },
+  "type": "module",
+  "keywords": [
+    "marufovi",
+    "web-dev",
+    "marufovis-cli"
+  ],
+  "author": "Maruf OVi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "shelljs": "^0.8.5"
+  }
+}
