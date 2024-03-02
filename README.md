@@ -6,7 +6,7 @@ A cli template that let you create your own cli, this cli can be used to interac
 
 ### Here is step by step guide to create yourcli =>
 
-> Note - before you create you cli, make sure you have installed nodejs and git on your machine.
+> Note - before you create your cli, make sure you have installed nodejs and git on your machine.
 
 **1 /**
 
