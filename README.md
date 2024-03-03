@@ -2,7 +2,7 @@
 
 ## yourcli
 
-A cli template that let you create your own cli, this cli can be used to interact with your github repos -  open it in browser or clone it. ALso has some additional features. Written in nodejs.
+A Cross-platform cli (command-line interface) template that let you create your own cli, this cli can be used to interact with your github repos -  open it in browser or clone it. ALso has some additional features. Written in nodejs.
 
 ### Here is step by step guide to create yourcli =>
 
