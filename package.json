@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.15",
+    "open": "^10.0.4",
     "shelljs": "^0.8.5"
   }
 }
